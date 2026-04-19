@@ -1,6 +1,7 @@
 # Variables de Entorno
 ### ¿Qué son las variables de entorno?
-# COMPLETAR
+Las variables de entorno son valores que se guardan en el sistema o en un contenedor y que las aplicaciones usan para configurarse sin necesidad de cambiar el código.
+Son como ajustes externos que le dicen al programa cómo debe comportarse. Por ejemplo, puedes guardar cosas como un usuario, una contraseña, un puerto o el modo de ejecución (desarrollo o producción).
 
 ### Para crear un contenedor con variables de entorno
 
