@@ -1,5 +1,6 @@
 ### Crear contenedor de Postgres sin que exponga los puertos. Usar la imagen: postgres:15-alpine3.21
-# COMPLETAR
+<img width="1365" height="491" alt="image" src="https://github.com/user-attachments/assets/7b75821c-b04e-4d86-a076-c86450fe44db" />
+
 
 ### Crear un cliente de postgres. Usar la imagen: dpage/pgadmin4
 
