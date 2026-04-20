@@ -1,5 +1,5 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+En la práctica 2 aprendí a trabajar con redes en Docker y cómo conectar contenedores entre sí. También vimos las variables de entorno, para pasar configuraciones como usuarios, contraseñas o datos importantes sin ponerlos directo en el código. Creé redes tipo bridge, conecté varios contenedores y entendí cómo se comunican. Luego trabajé con MySQL y WordPress, usando esas variables para que se conecten entre ellos. También expuse puertos para entrar desde el navegador y comprobé que aunque elimine y vuelva a crear el contenedor de WordPress, todo sigue igual porque los datos se guardan en MySQL
 
 Consultar: Cómo se gestionan datos confidenciales con los secretos de Docker (Docker Secrets).
+
+Los secretos de Docker se usan para manejar datos confidenciales como contraseñas o claves sin ponerlos directamente en el código ni en variables visibles. En lugar de eso, Docker los guarda de forma segura y los monta dentro del contenedor como archivos temporales cuando se necesitan. Así, solo los servicios autorizados pueden acceder a esa información, lo que hace más seguro el manejo de datos sensibles, especialmente en entornos como Docker Swarm.
