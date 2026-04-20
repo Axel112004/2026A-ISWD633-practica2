@@ -6,7 +6,15 @@
 
 
 ### Crear el contenedor mysql a partir de la imagen mysql:8, configurar las variables de entorno necesarias
-# COMPLETAR
+<img width="1919" height="531" alt="image" src="https://github.com/user-attachments/assets/d9f1ac8f-64e3-4154-8be7-8168ed72f869" />
+
+docker run -d --name mysql-wp --network net-wp \
+-e MYSQL_ROOT_PASSWORD=1234 \
+-e MYSQL_DATABASE=wordpress \
+-e MYSQL_USER=wpuser \
+-e MYSQL_PASSWORD=wp1234 \
+mysql:8
+
 
 ### Crear el contenedor wordpress a partir de la imagen: wordpress, configurar las variables de entorno necesarias
 # COMPLETAR
