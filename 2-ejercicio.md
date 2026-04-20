@@ -4,7 +4,11 @@
 
 ### Crear un cliente de postgres. Usar la imagen: dpage/pgadmin4
 
-# COMPLETAR
+<img width="1902" height="922" alt="image" src="https://github.com/user-attachments/assets/e7c0a3da-0d00-4110-bde2-615330f5d845" />
+
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/20d43b9e-3f8c-4e52-956f-647b10dada46" />
+
+
 
 La figura presenta el esquema creado en donde los puertos son:
 - a: (completar con el valor)
