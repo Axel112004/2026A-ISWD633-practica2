@@ -17,7 +17,9 @@ mysql:8
 
 
 ### Crear el contenedor wordpress a partir de la imagen: wordpress, configurar las variables de entorno necesarias
-# COMPLETAR
+<img width="1902" height="788" alt="image" src="https://github.com/user-attachments/assets/480be13e-bb2b-4749-bdd7-72a051764669" />
+
+docker run -d --name wordpress-wp --network net-wp -e WORDPRESS_DB_HOST=mysql-wp:3306 -e WORDPRESS_DB_USER=wpuser -e WORDPRESS_DB_PASSWORD=wp1234 -e WORDPRESS_DB_NAME=wordpress -p 9300:80 wordpress
 
 De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es **(completar con el valor)**
 
