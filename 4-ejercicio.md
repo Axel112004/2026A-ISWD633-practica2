@@ -28,6 +28,8 @@ Ingresar desde el navegador al wordpress y finalizar la configuración de instal
 
 <img width="1034" height="949" alt="image" src="https://github.com/user-attachments/assets/4ac59dc2-17ef-4379-b997-c05f432aedbe" />
 
+<img width="1287" height="670" alt="image" src="https://github.com/user-attachments/assets/10a27113-7f74-408b-adc7-6d89d7b79b32" />
+
 
 Desde el panel de admin: cambiar el tema y crear una nueva publicación.
 Ingresar a: http://localhost:9300/ 
