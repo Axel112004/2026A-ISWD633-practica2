@@ -21,7 +21,7 @@ mysql:8
 
 docker run -d --name wordpress-wp --network net-wp -e WORDPRESS_DB_HOST=mysql-wp:3306 -e WORDPRESS_DB_USER=wpuser -e WORDPRESS_DB_PASSWORD=wp1234 -e WORDPRESS_DB_NAME=wordpress -p 9300:80 wordpress
 
-De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es **(completar con el valor)**
+De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es 9300
 
 Ingresar desde el navegador al wordpress y finalizar la configuración de instalación.
 # COLOCAR UNA CAPTURA DE LA CONFIGURACIÓN
