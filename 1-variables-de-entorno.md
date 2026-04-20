@@ -37,4 +37,5 @@ El problema fue que se intentó crear un contenedor de MySQL sin definir la vari
 - Control de Acceso: Los archivos de variables de entorno pueden ser gestionados con permisos específicos, limitando quién puede ver o modificar la configuración sensible.
 
 ### ¿Qué bases de datos existen en el contenedor creado?
-# COMPLETAR
+
+En el contenedor de MySQL recién creado, inicialmente solo existen las bases de datos por defecto que el propio MySQL crea automáticamente para su funcionamiento. Estas suelen ser: information_schema, mysql, performance_schema y sys, que se utilizan para la gestión interna, configuración y monitoreo del sistema.
