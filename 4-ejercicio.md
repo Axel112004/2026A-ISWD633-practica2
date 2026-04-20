@@ -35,6 +35,7 @@ Desde el panel de admin: cambiar el tema y crear una nueva publicación.
 Ingresar a: http://localhost:9300/ 
 recordar que a es el puerto que usó para el mapeo con wordpress
 # COLOCAR UNA CAPTURA DEL SITO EN DONDE SEA VISIBLE LA PUBLICACIÓN.
+<img width="1910" height="1088" alt="image" src="https://github.com/user-attachments/assets/d84220ca-08f4-48bd-8f19-7628be00a0cd" />
 
 ### Eliminar el contenedor wordpress
 # COMPLETAR
