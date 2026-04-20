@@ -44,7 +44,8 @@ recordar que a es el puerto que usó para el mapeo con wordpress
 ### Crear nuevamente el contenedor wordpress
 Ingresar a: http://localhost:9300/ 
 recordar que a es el puerto que usó para el mapeo con wordpress
+<img width="1891" height="1146" alt="image" src="https://github.com/user-attachments/assets/6cda1310-930a-45e1-b463-d86d05c208a0" />
 
 ### ¿Qué ha sucedido, qué puede observar?
-# COMPLETAR
+Eliminé el contenedor de WordPress y lo volví a crear, pero el sitio seguía igual con la publicación. Esto pasa porque los datos no están en WordPress sino en MySQL, y como ese contenedor no lo borré, todo se mantuvo.
 
