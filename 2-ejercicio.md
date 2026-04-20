@@ -32,4 +32,8 @@ La figura presenta el esquema creado en donde los puertos son:
 <img width="828" height="204" alt="image" src="https://github.com/user-attachments/assets/5639c6a1-684e-4c2b-95aa-0f141232bed1" />
 
 ### Realizar un select *from personas
-# AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
+# AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTAD
+<img width="790" height="217" alt="image" src="https://github.com/user-attachments/assets/bc264d27-74e3-487f-8f76-e465a1baae3d" />
+
+<img width="1876" height="929" alt="image" src="https://github.com/user-attachments/assets/d5cedf35-46fa-4cee-9fa9-95ca6ea8df07" />
+
