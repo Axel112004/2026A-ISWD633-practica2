@@ -18,7 +18,8 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 
 
 ### Crear un contenedor con la imagen de mysql, mapear todos los puertos
-# COMPLETAR
+<img width="1157" height="538" alt="image" src="https://github.com/user-attachments/assets/bfbd8099-18de-4ff1-ac46-4b4205d84a65" />
+
 
 ### ¿El contenedor se está ejecutando?
 # COMPLETAR
